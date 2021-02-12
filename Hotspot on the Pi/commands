@@ -1,0 +1,25 @@
+# Installation
+sudo apt-get install hostapd
+sudo apt-get install dnsmasq
+
+## Setting Up  (without any wifi)
+ 
+sudo nano /etc/dhcpcd.conf
+# copy dhcpcd.conf in this repo
+
+sudo mv /etc/dnsmasq.conf /etc/dnsmasq.conf.orig 
+sudo nano /etc/dnsmasq.conf
+# copy dnsmasq.conf 
+
+sudo nano /etc/hostapd/hostapd.conf
+# copy hostapd.conf
+
+sudo nano /etc/default/hostapd
+# edit DAEMON_CONF="/etc/hostapd/hostapd.conf"
+
+
+sudo service enable hostapd 
+sudo service enable dnsmasq 
+sudo service start hostapd 
+sudo service start dnsmasq 
+
