@@ -6,3 +6,5 @@ Run using-
 
 > ./opencv.sh
 
+bash command to run a script every 2 seconds, forever:
+> while sleep 1; do (./script.sh &) ; done
