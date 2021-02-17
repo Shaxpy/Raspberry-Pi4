@@ -15,6 +15,7 @@ Running any script on linux on startup by enabling rc.local:
 > sudo python script1.py & <br>
 > sudo python script2.py & <br>
 
+Add the following lines at end of rc.local file: 
 > echo "Running scripts in parallel" <br>
 > wait # Waiting until both scripts finish <br>
 > echo "Script done running" <br>
