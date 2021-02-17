@@ -8,7 +8,7 @@ Run using-
 
 bash command to run a script every 2 seconds, forever:
 > while sleep 1; do (./script.sh &) ; done
-
+### Running script on startup
 Running any script on linux on startup by enabling rc.local:
 > sudo systemctl enable rc-local <br>
 
