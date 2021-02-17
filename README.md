@@ -10,9 +10,12 @@ bash command to run a script every 2 seconds, forever:
 > while sleep 1; do (./script.sh &) ; done
 
 Running any script on linux on startup by enabling rc.local:
-> sudo python script1.py &
-> sudo python script2.py &
+> sudo systemctl enable rc-local <br>
 
-echo "Running scripts in parallel"
-wait # Waiting until both scripts finish
-echo "Script done running"
+> sudo python script1.py & <br>
+> sudo python script2.py & <br>
+
+> echo "Running scripts in parallel" <br>
+> wait # Waiting until both scripts finish <br>
+> echo "Script done running" <br>
+> exit 0
