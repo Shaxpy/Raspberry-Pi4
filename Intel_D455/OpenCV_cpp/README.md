@@ -18,6 +18,11 @@ Open a terminal, and follow the steps:
 > make install <br>
 > ldconfig <br>
 > exit <br>
+> cd Intel_D455/OpenCV_cpp <br>
+> sudo cp opencv.pc /usr/local/lib/pkgconfig/opencv.pc <br>
+> PKG_CONFIG_PATH=$PKG_CONFIG_PATH:/usr/local/lib/pkgconfig <br>
+> export PKG_CONFIG_PATH <br>
+
 - To check if OpenCV is installed
 > pkg-config --modversion opencv
 
