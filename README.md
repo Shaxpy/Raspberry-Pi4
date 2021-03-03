@@ -1,10 +1,7 @@
 # Raspberry-Pi4
 My personal notes regarding my work on RPI4 (4GB RAM)
 
-(Python) For installing opencv directly use my shell script(opencv.sh) in this repo.
-After making it executable, Run using-
-
-> ./opencv.sh <br>
+- [Setup Intel Realsense D455 with Rpi](https://github.com/Shaxpy/Intel_Realsense_D455)
 
 Bash command to run a script every 2 seconds, forever:
 > while sleep 1; do (./script.sh &) ; done
@@ -13,6 +10,10 @@ Running any script on linux on startup by enabling rc.local:
 > sudo systemctl enable rc-local <br>
 
 
+(Python) For installing opencv directly use my shell script(opencv.sh) in this repo.
+After making it executable, Run using-
+
+> ./opencv.sh <br>
 
 Add the following lines at end of rc.local file: 
 > sudo python script1.py & <br>
