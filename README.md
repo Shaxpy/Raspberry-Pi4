@@ -2,7 +2,7 @@
 My personal notes regarding my work on RPI4 (4GB RAM)
 
 (Python) For installing opencv directly use my shell script(opencv.sh) in this repo.
-Run using-
+After making it executable, Run using-
 
 > ./opencv.sh <br>
 
