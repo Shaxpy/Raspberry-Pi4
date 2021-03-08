@@ -2,6 +2,7 @@
 My personal notes regarding my work on RPI4 (4GB RAM)
 
 - [Setup Intel Realsense D455 with Rpi](https://github.com/Shaxpy/Intel_Realsense_D455)
+- Installing Ubuntu 18.04.4 on Rpi - https://github.com/TheRemote/Ubuntu-Server-raspi4-unofficial/releases
 
 Bash command to run a script every 2 seconds, forever:
 > while sleep 1; do (./script.sh &) ; done
