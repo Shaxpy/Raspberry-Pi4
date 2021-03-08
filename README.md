@@ -5,7 +5,7 @@ My personal notes regarding my work on RPI4 (4GB RAM)
 - Installing Ubuntu 18.04.4 on Rpi - https://github.com/TheRemote/Ubuntu-Server-raspi4-unofficial/releases
 
 Bash command to run a script every 2 seconds, forever:
-> while sleep 1; do (./script.sh &) ; done
+> while sleep 2; do (./script.sh &) ; done
 ### Running script on startup
 Running any script on linux on startup by enabling rc.local:
 > sudo systemctl enable rc-local <br>
