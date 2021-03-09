@@ -2,6 +2,7 @@
 My personal notes regarding my work on RPI4 (4GB RAM)
 
 - [Setup Intel Realsense D455 with Rpi](https://github.com/Shaxpy/Intel_Realsense_D455)
+- [Headless Install Ubuntu on Pi](https://github.com/Shaxpy/Raspberry-Pi4/tree/master/Ubuntu_on_Pi)
 
 Bash command to run a script every 2 seconds, forever:
 > while sleep 2; do (./script.sh &) ; done
