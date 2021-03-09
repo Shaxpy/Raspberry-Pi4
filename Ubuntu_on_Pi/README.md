@@ -20,4 +20,4 @@ Replace the 2 files "system-boot">>> (network-config,user-data).
 > sudo apt install xubuntu-desktop <br>
 or 
 > sudo apt install lubuntu-desktop <br>
-Congratulations! You have successfully booted Ubuntu on RPi completely Headless!
+**Congratulations! You have successfully booted Ubuntu on RPi completely Headless!**
