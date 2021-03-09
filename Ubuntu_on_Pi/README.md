@@ -17,7 +17,7 @@ Replace the 2 files "system-boot">>> (network-config,user-data).
 - **To configure your firewall to allow incoming SSH connections**
 > sudo ufw allow ssh 
 - Installing a GUI-
-> sudo apt install xubuntu-desktop 
+> sudo apt install xubuntu-desktop <br>
 or 
 > sudo apt install lubuntu-desktop <br>
 Congratulations! You have successfully booted Ubuntu on RPi completely Headless!
