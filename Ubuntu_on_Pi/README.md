@@ -20,4 +20,8 @@ Replace the 2 files "system-boot">>> (network-config,user-data).
 > sudo apt install xubuntu-desktop <br>
 or 
 > sudo apt install lubuntu-desktop <br>
-**Congratulations! You have successfully booted Ubuntu on RPi completely Headless!**
+**Congratulations! You have successfully booted Ubuntu on RPi completely Headless!** <br> <br>
+### Setting the Pi for Remote Access
+xRDP on the Pi - https://community.spiceworks.com/how_to/92663-configure-users-to-connect-to-ubuntu-14-04-from-a-windows-machine-using-remote-desktop <br>
+VNC on Ubuntu 20.04/18.04
+https://github.com/mtbiker-s/ubuntu20.10-rpi-install-vnc
