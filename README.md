@@ -1,6 +1,6 @@
 # Raspberry-Pi4
-My personal notes regarding my work on RPI4 (4GB RAM)
-Nice Reference to setup XRDP on the Pi - https://community.spiceworks.com/how_to/92663-configure-users-to-connect-to-ubuntu-14-04-from-a-windows-machine-using-remote-desktop
+My personal notes regarding my work on RPI4 (4GB RAM) <br>
+
 - [Setup Intel Realsense D455 with Rpi](https://github.com/Shaxpy/Intel_Realsense_D455)
 - [Headless Install Ubuntu on Pi](https://github.com/Shaxpy/Raspberry-Pi4/tree/master/Ubuntu_on_Pi)
 
