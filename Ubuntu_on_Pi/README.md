@@ -7,7 +7,7 @@ Replace the 2 files "system-boot">>> (network-config,user-data).
 - Connect the Pi with your WiFi router using ethernet
 - Scan all Ip addresses on your WiFi using Nmap, for determining where the Rpi is connected, by running-
 > ./scan_ip.sh
-- Run the following command to get into CLI- (Replace xx.xx with your IP host name, and use password "ubuntu")
+- Run the following command to get into CLI- (Replace xx.xx with that in your Pi's IP host name, and use password "ubuntu")
 > ssh ubuntu@192.168.xx.xx
 
 ### Establishing SSH
