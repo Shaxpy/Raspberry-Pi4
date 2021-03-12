@@ -18,7 +18,7 @@ Replace the 2 files "system-boot">>> (network-config,user-data).
 > sudo ufw allow ssh 
 - Installing a GUI-
 > sudo apt install xubuntu-desktop <br>
-or 
+or <br>
 > sudo apt install lubuntu-desktop <br>
 **Congratulations! You have successfully booted Ubuntu on RPi completely Headless!** <br> <br>
 ### Setting the Pi for Remote Access
