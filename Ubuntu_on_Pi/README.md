@@ -1,4 +1,4 @@
-## Ubuntu Server for RPi4 (Headless boot)
+## Ubuntu Server (64-bit/arm64) for RPi4 (Headless boot)
 - Install Ubuntu 18.04.4 server on Rpi - https://github.com/TheRemote/Ubuntu-Server-raspi4-unofficial/releases
 Replace the 2 files under "system-boot" directory>>> (network-config,user-data). 
 - Run the following commands, replace the files from this directory-
@@ -19,7 +19,7 @@ Replace the 2 files under "system-boot" directory>>> (network-config,user-data).
 - Installing a GUI-
 > sudo apt install xubuntu-desktop <br>
 or <br>
-> sudo apt install lubuntu-desktop <br>
+> sudo apt install lubuntu-desktop <br> <br>
 **Congratulations! You have successfully booted Ubuntu on RPi completely Headless!** <br> <br>
 ### Setting the Pi for Remote Access
 xRDP on the Pi - https://community.spiceworks.com/how_to/92663-configure-users-to-connect-to-ubuntu-14-04-from-a-windows-machine-using-remote-desktop <br>
