@@ -1,7 +1,7 @@
 # Raspberry-Pi4
-My personal notes regarding my work on RPI4 (4GB RAM) <br>
+My personal notes regarding my work on RPi4 (4GB RAM) <br>
 
-- [Setup Intel Realsense D455 with Rpi](https://github.com/Shaxpy/Intel_Realsense_D455)
+- [Everything about Intel Realsense D455 with RPi4!](https://github.com/Shaxpy/Intel_Realsense_D455)
 - [Headless Install Ubuntu on Pi](https://github.com/Shaxpy/Raspberry-Pi4/tree/master/Ubuntu_on_Pi)
 
 Bash command to run a script every 2 seconds, forever:
