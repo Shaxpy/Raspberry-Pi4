@@ -13,6 +13,6 @@ wifis:
     dhcp4: true
     optional: true
     access-points:
-      "PSantosh":
-        password: "sanpritpan"
+      "WIFI_NAME_HERE":
+        password: "PASSWORD_HERE"
 
