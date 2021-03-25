@@ -24,4 +24,4 @@ or <br>
 ### Setting the Pi for Remote Access
 xRDP on the Pi - https://community.spiceworks.com/how_to/92663-configure-users-to-connect-to-ubuntu-14-04-from-a-windows-machine-using-remote-desktop <br>
 VNC on Ubuntu 20.04/18.04
-https://github.com/mtbiker-s/ubuntu20.10-rpi-install-vnc
+https://www.raspberrypi.org/forums/viewtopic.php?t=288769
